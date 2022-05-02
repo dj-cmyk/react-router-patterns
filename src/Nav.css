@@ -1,0 +1,11 @@
+.Nav {
+    padding: 15px;
+    margin: 15px;
+    background-color: rgb(7, 5, 146);
+    color: white;
+}
+
+.active {
+    color: gray;
+    text-decoration: none;
+}
